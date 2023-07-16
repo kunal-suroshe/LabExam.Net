@@ -1,0 +1,15 @@
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\bin\Debug\net7.0\LabExam1.exe
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\bin\Debug\net7.0\LabExam1.deps.json
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\bin\Debug\net7.0\LabExam1.runtimeconfig.json
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\bin\Debug\net7.0\LabExam1.dll
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\bin\Debug\net7.0\LabExam1.pdb
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.csproj.AssemblyReference.cache
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.AssemblyInfoInputs.cache
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.AssemblyInfo.cs
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.csproj.CoreCompileInputs.cache
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.dll
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\refint\LabExam1.dll
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.pdb
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\LabExam1.genruntimeconfig.cache
+C:\A PG-DAC\DAC\.Net\programs\labexam\LabExam1\obj\Debug\net7.0\ref\LabExam1.dll
