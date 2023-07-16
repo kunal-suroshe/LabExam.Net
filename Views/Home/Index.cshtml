@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Temperature Converter";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label for="celsius">Celsius:</label>
+        @Html.TextBox("celsius")
+        <input type="submit" value="Convert" />
+    </div>
+}
+
+@if (ViewBag.Celsius != null && ViewBag.Fahrenheit != null)
+{
+    <div>
+        <p>
+            @ViewBag.Celsius &#8451; = @ViewBag.Fahrenheit &#8457;
+        </p>
+    </div>
+}
